@@ -1,5 +1,3 @@
-from scipy.ndimage.measurements import center_of_mass
-from time import time
 import numpy as np
 import cv2
 
